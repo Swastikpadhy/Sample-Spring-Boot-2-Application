@@ -1,0 +1,1 @@
+Spring Boot Rest controller Junit 5 test cases with JACOCO
